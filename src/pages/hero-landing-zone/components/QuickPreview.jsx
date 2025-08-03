@@ -187,7 +187,7 @@ const QuickPreview = () => {
             {[
               { name: 'GitHub', icon: 'Github', url: 'https://github.com/Sagar0a' },
               { name: 'LinkedIn', icon: 'Linkedin', url: 'https://www.linkedin.com/in/sagaranand18/' },
-              { name: 'Instagram', icon: 'Instagram', url: 'https://instagram.com' },
+              { name: 'Instagram', icon: 'Instagram', url: 'https://www.instagram.com/__lucky__prince.__/' },
               // { name: 'Email', icon: 'Phone', url: 'mailto:sagaranand182005@gmail.com'
 
               
